@@ -31,7 +31,7 @@ Ada beberapa plugin/extention yang perlu diinstall dan beberapa persiapan lainny
 	Ketik Command ini di Terminal
 	``source venv/bin/activate``
 6. Buat file baru di dalam folder langgeng-tutorial dengan nama **requirements.txt**
-	Copy isi file pada //todo insert link ke requirements.txt
+	Copy isi file https://github.com/pandhu/langgeng-tutorial/blob/master/requirements.txt pada file requirements.txt yang sudah dibuat
 7. Install python package
 	Ketik Command ini di Terminal
 	``pip install -r requirements.txt``
@@ -50,4 +50,4 @@ Seperti pengolahan data pada umumnya, proses analisis data kita akan bagi menjad
 4. Data Visualizing
 	Setelah data diolah, kita akan coba menampilkan data dalam bentuk grafik-grafik
 
-### Data Input
+Untuk tutorial lengkap silakan ke file rfm.ipynb
