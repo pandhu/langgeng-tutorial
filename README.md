@@ -50,4 +50,4 @@ Seperti pengolahan data pada umumnya, proses analisis data kita akan bagi menjad
 4. Data Visualizing
 	Setelah data diolah, kita akan coba menampilkan data dalam bentuk grafik-grafik
 
-Untuk tutorial lengkap silakan ke file rfm.ipynb
+Untuk tutorial lengkap silakan ke file [rfm.ipynb](https://github.com/pandhu/langgeng-tutorial/blob/master/rfm.ipynb)
